@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "url": "https://www.smashinn.com/f/13766/137669286_3/adidas-breaknet.jpg",
+      "name": "Adiddas",
+      "price": "50$",
+      "quantity": "5",
+      "number": "001",
+      "seller": "Jibek",
+      "id": 1,
+      "likes": 11
+    },
+    {
+      "url": "https://images.puma.net/images/193990/03/sv01/fnd/RUS/w/1000/h/1000/bg/255,255,255.jpg",
+      "name": "Puma",
+      "price": "150$",
+      "quantity": "7",
+      "number": "002",
+      "seller": "Rasul",
+      "likes": 6,
+      "id": 2
+    },
+    {
+      "url": "https://ae01.alicdn.com/kf/Hc5a7b47f894d4d6c9e49f5f20cd23b32f/-.jpg",
+      "name": "Li-Ning",
+      "price": "85$",
+      "quantity": "2",
+      "number": "003",
+      "seller": "Aktan",
+      "likes": 11,
+      "id": 3
+    },
+    {
+      "url": "https://realstore.com.ua/image/cache/catalog/allproductpic/Shoes/kyrie/kyrie-2/nike-kyrie-2-inferno/nike-kyrie-2-inferno-1-1000x1000.jpg",
+      "name": "Nike",
+      "price": "300$",
+      "quantity": "6",
+      "number": "004",
+      "seller": "Kubat",
+      "likes": 4,
+      "id": 4
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/proxy/j9jNFNC_SsuVaokOP-lvjuidH-joZRCYch_0Ud3CgrTd0PCAo823sPJPEcQ1O75hMQEatsp3fianrBPJVxensUDsZMzkPCBQOPGjlBH5bec_egcjmH56OsH79mco8AOWOFlencEvsg",
+      "name": "New Balance",
+      "price": "174$",
+      "quantity": "9",
+      "number": "005",
+      "seller": "Emir",
+      "likes": 1,
+      "id": 5
+    },
+    {
+      "url": "https://main-cdn.goods.ru/big1/hlr-system/-1/29/15/99/11/94/9/600001343417b0.jpeg",
+      "name": "Jordan",
+      "price": "800$",
+      "quantity": "10",
+      "number": "006",
+      "seller": "Aigul",
+      "likes": 10,
+      "id": 6
+    },
+    {
+      "url": "https://i.pinimg.com/originals/23/00/50/23005095c0fe62210e6bf6e859d7c660.jpg",
+      "name": "Lacoste",
+      "price": "320$",
+      "quantity": "15",
+      "number": "007",
+      "seller": "Damira",
+      "likes": 1,
+      "id": 7
+    },
+    {
+      "url": "https://www.sport-bittl.com/images/product_images/popup_images/87260188520A_Asics_Gel_Noosa_TRI12_Laufschuh_D_gruen.jpg",
+      "name": "ASICS",
+      "price": "55$",
+      "quantity": "90",
+      "number": "008",
+      "seller": "Roma",
+      "likes": 4,
+      "id": 8
+    },
+    {
+      "url": "https://i31.takemore.net/images/watermarked/46/67/65/calvin_klein-s0583black-jeans-3.jpg",
+      "name": "Calvin Klein",
+      "price": "500$",
+      "quantity": "50",
+      "number": "009",
+      "seller": "Jibek",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0256/5636/1006/products/898464-014_img03.jpg?v=1577454232",
+      "name": "Nike",
+      "price": "124$",
+      "quantity": "88",
+      "number": "010",
+      "seller": "Begayim",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "url": "https://www.dressinn.com/f/13760/137609589/puma-wired-run.jpg",
+      "name": "Puma",
+      "price": "800$",
+      "quantity": "6",
+      "number": "011",
+      "seller": "Adis",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "url": "https://i.pinimg.com/originals/da/33/88/da3388d31047b4972a2f5b78ed1d2936.jpg",
+      "name": "Nike AirMAx",
+      "price": "500$",
+      "quantity": "20",
+      "number": "012",
+      "seller": "Temir",
+      "likes": 15,
+      "id": 12
+    }
+  ]
+}
